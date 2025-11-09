@@ -124,5 +124,4 @@ logs/
 * Each stage runs independently, so you can test modules individually (e.g., run only Model Training or Evaluation).
 * YAML-driven configuration allows flexible tuning without modifying the source code.
 * The modular design makes it easy to extend with new algorithms, validation methods, or deployment steps later.
-
-Would you like me to extend this with an **“Evaluation and SHAP Explanations”** section at the end — showing how SHAP is integrated for feature importance (like in your AdaBoost version)? It’ll make your README complete and ready for GitHub portfolio presentation.
+  
