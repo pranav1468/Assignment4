@@ -1,4 +1,4 @@
-# ✈️ ML Assignment 4 — Pipeline
+# ML Assignment 4 — Pipeline
 
 This repository trains and evaluates an **AdaBoost-based machine learning pipeline** for the **Airline Passenger Satisfaction** dataset.
 It automates data ingestion, validation, transformation, model training, and evaluation — all driven by YAML configurations.
